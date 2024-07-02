@@ -33,7 +33,11 @@ This guide outlines the steps involved in creating a data analysis of Chandigarh
     * **Histograms:** Visualizing the distribution of continuous variables like exam scores.
     * **Bar Charts:** Comparing categorical variables like student enrollment across different programs.
     * **Scatter Plots:** Exploring relationships between variables, such as study hours and exam performance.
-    * **PivotTables and Charts:** Creating pivot tables to summarize and analyze data by categories (program, year, gender).
+    * **PivotTables and Charts:** Creating pivot tables to summarize and analyze data by categories (gender).
+
+## Snapsort of Slicers Used
+![Screenshot 2024-07-03 022328](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/e51ed762-a871-422d-a304-c391172f8d57)
+
 
 **4. Data Analysis and Interpretation:**
 

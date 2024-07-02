@@ -50,6 +50,7 @@ This guide outlines the steps involved in creating a data analysis of Chandigarh
 
 ## Snapsort of Pivot Table
 ![Screenshot 2024-07-03 022350](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/2c345cc9-08d5-4710-9651-80765014901e)
+
 ![Screenshot 2024-07-03 022406](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/2a1a8a22-75b4-4612-8a9c-07e88cff2afa)
 
 
@@ -60,6 +61,12 @@ This guide outlines the steps involved in creating a data analysis of Chandigarh
     * **Target Audience:** Tailor the report to the needs of your audience (e.g. students details).
     * **Clarity and Conciseness:** Presenting the information in a clear, easy-to-understand way. Use visuals effectively to complement the text.
     * **Actionable Insights:** Highlight key findings and suggest potential actions based on the analysis (e.g., areas for improvement, resource allocation strategies).
+ 
+## Snapsort of Presentation
+![Screenshot 2024-07-03 022432](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/ebed3dce-304b-4f9e-91f3-df8d888e6e28)
+
+![Screenshot 2024-07-03 022522](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/086fbeb5-6818-485a-b44d-4523f7bc8919)
+
 
 **Additional Tips:**
 

@@ -5,6 +5,10 @@ Compelling data analysis of Chandigarh University students in Excel, starting by
 
 This guide outlines the steps involved in creating a data analysis of Chandigarh University students in Excel. By incorporating clear descriptions throughout the process, we ensure a well-documented and informative analysis.
 
+## Snapsort of Data in Tables
+![Screenshot 2024-07-03 022236](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/efa2acb4-d1e5-467b-ba7e-521d817cc4d3)
+
+
 **1. Data Acquisition:**
 
 * **Description:** Securing student data from Chandigarh University itself or approved sources. 

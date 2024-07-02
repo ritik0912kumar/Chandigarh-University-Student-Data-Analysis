@@ -35,7 +35,7 @@ This guide outlines the steps involved in creating a data analysis of Chandigarh
     * **Scatter Plots:** Exploring relationships between variables, such as study hours and exam performance.
     * **PivotTables and Charts:** Creating pivot tables to summarize and analyze data by categories (gender).
 
-## Snapsort of Slicers Used
+## Snapsort of Slicer Used
 ![Screenshot 2024-07-03 022328](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/e51ed762-a871-422d-a304-c391172f8d57)
 
 
@@ -47,6 +47,11 @@ This guide outlines the steps involved in creating a data analysis of Chandigarh
     * **Correlations:** Identifying relationships between variables like attendance and exam scores (if applicable based on data).
     * **Inferential Statistics (if applicable):** Using inferential statistics to test hypotheses about student performance or demographics (if the data allows).
     * **Insights and Interpretations:** Explaining what the data reveals about the student population. Are there any trends or patterns in academic performance, enrollment by program, etc.?
+
+## Snapsort of Pivot Table
+![Screenshot 2024-07-03 022350](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/2c345cc9-08d5-4710-9651-80765014901e)
+![Screenshot 2024-07-03 022406](https://github.com/ritik0912kumar/Chandigarh-University-Student-Data-Analysis/assets/126445623/2a1a8a22-75b4-4612-8a9c-07e88cff2afa)
+
 
 **5. Reporting and Presentation:**
 
